@@ -1,2 +1,5 @@
 # luhx5001
-5001ip
+
+language: python
+platform: colab
+packages: numpy pandas matplotlib xgboost
